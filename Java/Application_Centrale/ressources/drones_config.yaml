@@ -1,0 +1,7 @@
+drones:
+- {nom: Drone2, ip: 172.29.1.102, mac: 60-60-1f-60-aa-12}
+- {nom: Drone3, ip: 172.29.1.103, mac: 48-1c-b9-9c-00-3e}
+- {nom: Drone4, ip: 172.29.1.104, mac: 48-1c-b9-9c-00-3f}
+- {nom: Drone5, ip: 172.29.1.105, mac: 48-1c-b9-9b-ff-2b}
+- {mac: 58-96-71-9C-C7-98, nom: Drone 6, ip: 172.29.1.41}
+

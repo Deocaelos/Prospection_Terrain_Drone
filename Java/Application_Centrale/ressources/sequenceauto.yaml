@@ -1,0 +1,7 @@
+sequences:
+- name: Sequence_Drone
+  commands:
+  - {name: takeoff}
+  - name: goUp
+    parameters: {duration: 1500}
+  - {name: land}
