@@ -15,7 +15,7 @@ L'objectif principal est d'étudier des sites potentiels pour **l'implantation d
 
 ## 🧠 Contexte
 
-Dans le cadre de notre **projet de fin d'études** pour un **BTS Cybersécurité, Informatique et Électronique**, nous avons conçu une solution mêlant **robotique, vision par ordinateur et réalité virtuelle**.  
+Dans le cadre de notre **projet de fin d'études** pour un **BTS Cybersécurité, Informatique et Électronique**, nous avons conçu une solution mêlant **contrôle de drones, traitement d’image et visualisation 3D**.  
 Deux drones autonomes sont utilisés pour survoler et analyser le terrain, tandis que les données captées sont exploitées dans un environnement 3D immersif (**CHAI3D**), facilitant ainsi la prise de décision pour des projets d’aménagement.
 
 ---
