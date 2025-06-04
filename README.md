@@ -58,7 +58,7 @@ Deux drones autonomes sont utilisés pour survoler et analyser le terrain, tandi
 ## 🛠️ Installation & Lancement
 
 > **Prérequis** :  
-> - Drones Tello Edu connectés au réseau local  
+> - Drones Tello Edu.
 > - Java 11+  
 > - Android Studio (si vous utilisez l’application mobile)  
 
