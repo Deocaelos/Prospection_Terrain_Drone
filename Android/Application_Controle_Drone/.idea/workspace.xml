@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c4fafaa-b584-4800-9f22-f891a5ccaab2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APPAndroidV2/app/src/main/java/com/example/infosdrones/Thread_EnvoiCommande.java" beforeDir="false" afterPath="$PROJECT_DIR$/APPAndroidV2/app/src/main/java/com/example/infosdrones/Thread_EnvoiCommande.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadCommAppAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadCommAppAndroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadGestionConnexionDrone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadGestionConnexionDrone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadSurveillanceBouton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/ThreadSurveillanceBouton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/Utils/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Workspace/Appli_Projet_FMP_Actif_V5/Utils/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2x4lCnKgws2SRrCnVX18Yrbnpzx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/Projet_Drone_2025/Projet_Drone_Rias_Julien/Rias Julien (Etudiant 3)/AppliAndroidFinaleV2/APPAndroidV2",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4fafaa-b584-4800-9f22-f891a5ccaab2" name="Changes" comment="" />
+      <created>1747205101207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747205101207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
